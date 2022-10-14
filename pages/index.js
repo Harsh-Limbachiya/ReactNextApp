@@ -10,6 +10,8 @@ export default function Home() {
   return (
     <div>
        <MainNav />
+       <br/>
+      <PageHeader />
       <br />
       <Title/>
       <br />
@@ -18,8 +20,7 @@ export default function Home() {
       { /** <Layout/> */}
       <br />
       <MovieDetails />
-      <br/>
-      <PageHeader />
+      
     </div>  
   )
 }
