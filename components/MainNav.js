@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 export default function MainNav() {
   return (
-   <div>
+    <>
      <Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="#home">Harsh Limbachiya</Navbar.Brand>
@@ -18,6 +18,6 @@ export default function MainNav() {
       </Navbar>
       <br />
       <br />
-   </div>
+   </>
   )
 }
