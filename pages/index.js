@@ -1,4 +1,13 @@
-
+/*********************************************************************************
+* WEB422 – Assignment 3
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Harsh Vishnu Limbachiya Student ID:157295197 Date: 14/10/2022
+*
+*
+********************************************************************************/ 
 // import Title from '../pages/movies/title'
 import About from '../pages/about'
 //import Layout from '../components/Layout'

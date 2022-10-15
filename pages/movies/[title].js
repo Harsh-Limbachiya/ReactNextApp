@@ -5,7 +5,7 @@ import MovieDetails from '../../components/MovieDetails'
 import Error from 'next/error';
 import PageHeader from '../../components/PageHeader';
 
-export default function title() {
+export default function Movies() {
   const router = useRouter();
   const {title} = router.query;
   const { data, error } = useSWR(`(Your Cyclic App)/api/movies?page=1&perPage=10&title=title`);
